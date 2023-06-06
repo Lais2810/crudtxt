@@ -1,2 +1,0 @@
-# crudtxt
-Exemplo de CRUD
